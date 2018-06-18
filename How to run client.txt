@@ -1,0 +1,8 @@
+
+1- double click on MsgServiceClient-0.0.1-SNAPSHOT.jar.
+2- open a web browser and write in the url (http://localhost:8888) a response from will be sent to you.
+3- Be message service should be running on tomcat server using server-port=8080.
+4- to send a message write in url (http://localhost:8888/sendmsg)
+5- to send a bulk message write in url (http://localhost:8888/sendbulkmsg)
+6- to get msg status write in url (http://localhost:8888/msgstatus)
+
